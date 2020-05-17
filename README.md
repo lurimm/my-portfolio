@@ -1,1 +1,1 @@
-A website that describes Luis Rincon.
+A website that talks about what Luis Rincon does.
